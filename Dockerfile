@@ -1,5 +1,5 @@
-# DOCKER-VERSION 1.3
-FROM dockerfile/rabbitmq
+# DOCKER-VERSION 1.5
+FROM rabbitmq:management
 
 MAINTAINER Elmar Athmer <elmar@athmer.org>
 
