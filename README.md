@@ -1,4 +1,4 @@
 rabbitmq-consistent-hash-exchange
 =================================
 
-Official rabbitmq image with consistent-hash-exchange plugin enabled
+Based on the official rabbitmq image, with consistent-hash-exchange plugin enabled
